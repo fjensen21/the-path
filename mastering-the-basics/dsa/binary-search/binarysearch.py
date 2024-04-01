@@ -21,6 +21,8 @@ def binary_search(list, item):
     return None
 
 
+
+
 if __name__ == "__main__":
 
     # Test 1: List is empty
